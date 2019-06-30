@@ -1,4 +1,4 @@
-package com.github;
+package com.github.createThread;
 
 import static org.junit.Assert.assertTrue;
 

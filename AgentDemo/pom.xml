@@ -55,7 +55,7 @@
           <configuration>
             <archive>
               <manifestEntries>
-                <Premain-Class>com.github.PreAgent</Premain-Class>
+                <Premain-Class>com.github.createThread.PreAgent</Premain-Class>
                 <Can-Redefine-Classes>true</Can-Redefine-Classes>
                 <Can-Retransform-Classes>true</Can-Retransform-Classes>
               </manifestEntries>
