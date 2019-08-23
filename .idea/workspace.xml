@@ -2,53 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf790b0-f470-4ab2-949b-8f26cd6065e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_6_0_ALPHA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CGLIBdemo/CGLIBdemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CGLIBdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CGLIBdemo/src/main/java/CglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CGLIBdemo/src/main/java/SayHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CGLIBdemo/src/main/java/TestCglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/JdkProxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/proxy/Agency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/proxy/DupSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/proxy/Real.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/proxy/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/proxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/reflectionDemo/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/reflectionDemo/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/reflectionDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/reflectionDemo/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/LogHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/ProxyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/UserServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLoad/ClassLoad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLoad/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLoad/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLoad/src/MyClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLoad/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrency/src/com/github/BlockingQueue/ArrayBlockQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrency/src/com/github/JoinWaitSleepInterrupt/TwoThreadWaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NIOdemo/NIOdemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/AQSexmaple/Mutex$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/AQSexmaple/Mutex$Sync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/AQSexmaple/Mutex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/JoinWaitSleepInterrupt/InterruptDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/JoinWaitSleepInterrupt/JoinDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/JoinWaitSleepInterrupt/SleepDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/JoinWaitSleepInterrupt/WaitNotifyDemo$Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/JoinWaitSleepInterrupt/WaitNotifyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/ThreadLocalDemo/ThreadLocalDemo$DateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/ThreadLocalDemo/ThreadLocalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/createThread/ExtendsThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/createThread/ImplementsCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/com/github/createThread/ImplementsRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrency/src/com/github/JoinWaitSleepInterrupt/WaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrency/src/com/github/JoinWaitSleepInterrupt/WaitNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JdkProxy/src/com/github/staticORdynamicProxy/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/proxy/Agency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/proxy/DupSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/proxy/Real.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/proxy/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/proxy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/reflectionDemo/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/reflectionDemo/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/reflectionDemo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/reflectionDemo/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/Client1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/Client2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/Client3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/LogHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/ProxyUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proxy/com/github/staticProxy/UserServiceProxy.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../httpkids" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -112,48 +94,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCglibProxy">
+  <component name="RunManager" selected="Application.Client1">
+    <configuration name="ArrayBlockQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.BlockingQueue.ArrayBlockQueue" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.BlockingQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.staticProxy.Client1" />
-      <module name="Concurrency" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.staticORdynamicProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.staticProxy.Client2" />
-      <module name="Concurrency" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.staticProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.staticORdynamicProxy.Client2" />
-      <module name="Proxy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.staticORdynamicProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.staticORdynamicProxy.Client3" />
+      <option name="MAIN_CLASS_NAME" value="com.github.staticORdynamicProxy.Client1" />
       <module name="JdkProxy" />
       <extension name="coverage">
         <pattern>
@@ -165,12 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.proxy.Test" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="ClassLoad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoThreadWaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.JoinWaitSleepInterrupt.TwoThreadWaitNotify" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.proxy.*" />
+          <option name="PATTERN" value="com.github.JoinWaitSleepInterrupt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,20 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCglibProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCglibProxy" />
-      <module name="CGLIBdemo" />
+    <configuration name="WaitNotifyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.JoinWaitSleepInterrupt.WaitNotifyDemo" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.JoinWaitSleepInterrupt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCglibProxy" />
-        <item itemvalue="Application.Client3" />
-        <item itemvalue="Application.Client2" />
-        <item itemvalue="Application.Client2" />
         <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.ArrayBlockQueue" />
+        <item itemvalue="Application.TwoThreadWaitNotify" />
+        <item itemvalue="Application.WaitNotifyDemo" />
+        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>

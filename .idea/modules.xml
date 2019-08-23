@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CGLIBdemo/CGLIBdemo.iml" filepath="$PROJECT_DIR$/CGLIBdemo/CGLIBdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassLoad/ClassLoad.iml" filepath="$PROJECT_DIR$/ClassLoad/ClassLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/JdkProxy/JdkProxy.iml" filepath="$PROJECT_DIR$/JdkProxy/JdkProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIOdemo/NIOdemo.iml" filepath="$PROJECT_DIR$/NIOdemo/NIOdemo.iml" />
     </modules>
   </component>
 </project>

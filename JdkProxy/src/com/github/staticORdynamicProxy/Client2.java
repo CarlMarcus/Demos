@@ -6,7 +6,7 @@ import java.lang.reflect.Proxy;
 public class Client2 {
     public static void main(String[] args) {
         // 动态代理第一种方式
-        /**
+        /*
          * Proxy类中还有个将2~4步骤封装好的简便方法来创建动态代理对象，
          *其方法签名为：newProxyInstance(ClassLoader classloader,Class<?>[] interfaces, InvocationHandler h)
          */
