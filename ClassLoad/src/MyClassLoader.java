@@ -6,7 +6,7 @@ public class MyClassLoader extends ClassLoader {
     @Override
     protected Class<?> findClass(String name) throws ClassNotFoundException {
         byte[] bt = loadClassData(name);
-        return this.defineClass(name, bt, 0, bt.length);
+        return this.defineClass (name, bt, 0, bt.length);
     }
 
     private byte[] loadClassData(String className) {

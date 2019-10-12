@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 //CGLIB动态代理类
 public class CglibProxy implements MethodInterceptor {
 
-    /**
+    /*
      * 生成CGLIB代理对象
      * @param cls -Class类 需要被代理的真实对象
      * @return
@@ -23,7 +23,7 @@ public class CglibProxy implements MethodInterceptor {
         Object proxy = en.create();
         return proxy;
     }
-    /**
+    /*
      * 代理逻辑方法
      * 1.proxy 代理对象
      * 2.method 方法
